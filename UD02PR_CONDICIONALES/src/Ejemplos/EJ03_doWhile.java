@@ -11,7 +11,7 @@ public class EJ03_doWhile {
 		
 		do {
 			System.out.println("El valor de la variable i es: "+i);
-		i++;
+			i++;
 		} while (i<=10);
 
 	}
